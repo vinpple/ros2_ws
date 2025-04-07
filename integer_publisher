@@ -1,3 +1,5 @@
+정수값을 0으로 초기화하고 1씩 증가시키면서 퍼블리시하는 패키지 pub1-1를 작성하시오.
+
 #include "rclcpp/rclcpp.hpp"
 #include "std_msgs/msg/int32.hpp"  // Int32 메시지 타입을 포함
 #include <memory>
